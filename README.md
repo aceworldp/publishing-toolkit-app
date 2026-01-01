@@ -8,3 +8,6 @@ This repository hosts:
 - Release notes
 
 Primary app access is via the web and APK.
+
+📄 [View Changelog](CHANGELOG.md)
+
